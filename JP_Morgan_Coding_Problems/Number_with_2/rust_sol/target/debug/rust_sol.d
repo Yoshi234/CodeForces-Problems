@@ -1,0 +1,1 @@
+/home/jjl20011/snap/snapd-desktop-integration/83/Lab/CodeForces-Problems/JP_Morgan_Coding_Problems/Number_with_2/rust_sol/target/debug/rust_sol: /home/jjl20011/snap/snapd-desktop-integration/83/Lab/CodeForces-Problems/JP_Morgan_Coding_Problems/Number_with_2/rust_sol/src/main.rs
