@@ -1,4 +1,4 @@
-#CodeForces-Problems
+# CodeForces-Problems
 ---
 This repository was opened to store code results of different Rust algorithm and 
 data structure practice problems. 
