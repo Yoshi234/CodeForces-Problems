@@ -1,6 +1,18 @@
 use std::collections::HashSet;
 use std::io;
 
+/// Runs the implementation for the Jack's text problem 
+/// which is described in the python_sol `main.py` file
+/// 
+/// Arguments: 
+/// - None
+/// 
+/// Returns:
+/// - None
+/// 
+/// Helpful Resources: 
+/// - `HashSet` help: [link](https://doc.rust-lang.org/std/collections/struct.HashSet.html)
+/// - `to_lowercase()` reference: [link](https://doc.rust-lang.org/std/char/struct.ToLowercase.html)
 fn main() {
     let mut sentence = String::new();
     io::stdin()
